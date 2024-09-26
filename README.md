@@ -13,4 +13,5 @@ O sistema inclui:
 -  Um display LCD que apresenta as perguntas ao jogador.
 
   
-![image](https://github.com/user-attachments/assets/d3e005d8-b511-49cd-ba36-b980431e0bc2)
+![image](https://github.com/user-attachments/assets/43bccf56-ca93-4aed-a7af-13186c8e2e7f)
+
